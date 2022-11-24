@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class ServerHealthCheck {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		String[] serverAddress = new String[] {"http://127.0.0.1:8080", "http://nexcore.skcc.com"};
 		
