@@ -18,6 +18,7 @@ public class ServerHealthCheck {
 		}
 	}
 	
+	// dowork  
 	private void doWork(final String serverAddress) {
 		Thread t = new Thread() {
 			public void run() {
